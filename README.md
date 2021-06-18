@@ -8,7 +8,7 @@ If your microphone is stuck muted, go to `System Preferences -> Sound -> Input` 
 You will also have to unmute manually after removing the code snippet and realoading hammerspoon config if you no longer want to use it.
 
 # Known issues:
-- none so far
+- MS Teams adds a HUGE "Your microphone is muted" banner right in the middle of the call screen - it covers most of the call window (and whole of the small "detached" one when you had another window on top). Banner can be closed, but it will appear again when you mute next time. Currently MS Teams has no option to disable the banner
 
 # Rudimentary setup:
 
